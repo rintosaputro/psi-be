@@ -2,10 +2,10 @@
 
 ```bash
 # clone repo
-git clone <your-repo-url>
+git clone https://github.com/rintosaputro/psi-be.git
 
 # go to project
-cd <project-name>
+cd psi-be
 
 # install dependencies
 npm install
