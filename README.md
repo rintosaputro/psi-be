@@ -18,7 +18,7 @@ npm install
 Create file `.env` in root project:
 
 ```env
-DATABASE_URL="file:./dev.db"
+DATABASE_URL="mysql://root:Password@localhost:3306/psi_db"
 JWT_SECRET="secret_key"
 RANDOM_USER_API="https://randomuser.me/api"
 ```
